@@ -54,9 +54,8 @@ Categories
     PUT /api/tags/:id: Update a specific tag by its ID with the provided data. Requires a request body in JSON format with the tag_name property.
     DELETE /api/tags/:id: Delete a specific tag by its ID.
 
-## Walkthrough Video
 
-[Link to walkthrough video](https://youtu.be/QUn5E0gEvuQ)
+## [Walkthrough Video](https://youtu.be/QUn5E0gEvuQ)
 
 ## Contributing
 
